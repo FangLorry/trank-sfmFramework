@@ -1,0 +1,2 @@
+# trank-sfmFramework
+spring+mybatis+freemarker基础架构以及BaseService基础代码设计
